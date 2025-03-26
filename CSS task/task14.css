@@ -1,0 +1,29 @@
+.option{
+    width: 550px;
+    height: 50px;
+    border: solid 2px black;
+    margin: 20px;
+    padding: 3px;
+    display: flex;
+    align-items: center; 
+}
+
+p{
+    font-weight: bold;
+    margin-left: 30px;
+    font-size: 17px;
+}
+
+body{
+    margin:50px;
+}
+
+.circle{
+    width: 20px;
+    height: 20px;
+    float: left; 
+    margin: 10px;
+    border-radius: 50px;
+    border: solid 2px;
+    background-color: rgb(225, 225, 221);
+}
