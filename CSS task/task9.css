@@ -8,6 +8,5 @@ h3{
     text-decoration: underline;
 }
 h4{
-    text-decoration: underline;
-    text-decoration: overline;
+    text-decoration: underline overline;
 }
